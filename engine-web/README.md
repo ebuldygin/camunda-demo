@@ -7,7 +7,7 @@
 * Конфигурацию подключения к БД Oracle для BPM движка
 
 ## Как это работает
-1. Настройка Spring Boot и Camunda с REST API описана в [исходном демо](https://github.com/camunda/camunda-bpm-examples/tree/master/spring-boot-starter/example-webapp)
+1. Настройка Spring Boot и camunda-web описана в [исходном демо](https://github.com/camunda/camunda-bpm-examples/tree/master/spring-boot-starter/example-webapp)
 1. Использование БД Oracle конфигурируется в `application.yaml` через свойства станадартного datasource: `spring.datasource.*`
     ```yaml
     ...
