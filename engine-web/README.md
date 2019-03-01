@@ -64,5 +64,5 @@
 
 ## Ссылки
 1. [Camunda Get Started (JSF/Spring boot etc)](https://docs.camunda.org/get-started/apache-maven/)
-2. [Camunda Reference]()https://docs.camunda.org/manual/7.10/reference/)
-3. [Camunda BPMN 2.0 Reference]()https://camunda.com/bpmn/reference/)
+2. [Camunda Reference](https://docs.camunda.org/manual/7.10/reference/)
+3. [Camunda BPMN 2.0 Reference](https://camunda.com/bpmn/reference/)
